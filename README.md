@@ -34,7 +34,7 @@ Two ways to set it up:
 | [Heltec HD01 Wi-Fi HaLow AP](https://www.aliexpress.com/item/1005010018577892.html) *(optional — HaLow only)* | Long-range access point at the house — skip it to run over your existing Wi-Fi | $120 AUD |
 | [915 MHz antenna + U.FL→SMA cable](https://www.aliexpress.com/item/1005008844803230.html) *(optional — HaLow only)* | HaLow antenna for the HC33 — only needed for the long-range HaLow setup | $5 AUD |
 | [90° elbow USB-C to USB-C cable](https://www.aliexpress.com/item/1005008784687533.html) | Neat power connection to the mower | $4 AUD |
-| [Project box](https://www.aliexpress.com/item/1005003422036596.html) | Weather-resistant enclosure | $4.50 AUD |
+| [Project box](https://www.aliexpress.com/item/1005003422036596.html) | Weather-resistant enclosure (I used an 83&times;58&times;35&nbsp;mm one) | $4.50 AUD |
 
 **Total — over existing Wi-Fi / with HaLow long range: ~$60 / ~$180 AUD.**
 
